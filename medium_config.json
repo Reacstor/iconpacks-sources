@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.11.19",
-  "latestVersionCode": 510449,
+  "latestVersion": "3.3.15",
+  "latestVersionCode": 513631,
   "disableRequest": {
-    "below": 510449
+    "below": 513631
   },
-  "url": "https://play.google.com/store/apps/details?id=com.reacstor.pasagi",
+  "url": "https://play.google.com/store/apps/details?id=com.reacstor.paddon",
   "releaseNotes": [
-    "This is the text which will be shown on Update",
-    "This is Awesome",
-    "Please Enjoy My Friend",
-    "<b>This</b> is Just for <i>Testing</i>"
+    "Added weekly request icons",
+    "Fix missing Icon Activities",
+    "Update Dashboard App",
+    "Update some Activities"
   ]
 }
