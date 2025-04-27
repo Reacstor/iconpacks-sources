@@ -1,12 +1,13 @@
 {
-  "latestVersion": "2.0.2",
-  "latestVersionCode": 545753,
+  "latestVersion": "2.0.3",
+  "latestVersionCode": 545754,
   "disableRequest": {
-    "below": 545753
+    "below": 545754
   },
   "url": "https://play.google.com/store/apps/details?id=com.reacstor.paddon",
   "releaseNotes": [
     "Added weekly request icons",
+    "Fix crash report",
     "Update some Activities"
   ]
 }
