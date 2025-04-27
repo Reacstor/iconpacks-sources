@@ -1,14 +1,12 @@
 {
-  "latestVersion": "1.3.1",
-  "latestVersionCode": 321041,
+  "latestVersion": "1.3.2",
+  "latestVersionCode": 321042,
   "disableRequest": {
-    "below": 321041
+    "below": 321042
   },
   "url": "https://play.google.com/store/apps/details?id=com.reacstor.pasagi",
   "releaseNotes": [
     "Added weekly request icons",
-    "Fix missing Icon Activities",
-    "Update Dashboard App",
     "Update some Activities"
   ]
 }
