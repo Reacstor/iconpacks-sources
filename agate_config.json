@@ -1,14 +1,12 @@
 {
-  "latestVersion": "2.9.1",
-  "latestVersionCode": 481541,
+  "latestVersion": "2.9.2",
+  "latestVersionCode": 481542,
   "disableRequest": {
-    "below": 481541
+    "below": 481542
   },
   "url": "https://play.google.com/store/apps/details?id=com.reacstor.agate",
   "releaseNotes": [
     "Added weekly request icons",
-    "Fix missing Icon Activities",
-    "Update Dashboard App",
     "Update some Activities"
   ]
 }
