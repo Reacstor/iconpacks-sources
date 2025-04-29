@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.9.3",
-  "latestVersionCode": 481543,
+  "latestVersion": "2.9.4",
+  "latestVersionCode": 481544,
   "disableRequest": {
-    "below": 481543
+    "below": 481544
   },
   "url": "https://play.google.com/store/apps/details?id=com.reacstor.agate",
   "releaseNotes": [
