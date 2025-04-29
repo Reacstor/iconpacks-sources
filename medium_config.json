@@ -1,12 +1,13 @@
 {
-  "latestVersion": "3.3.19",
-  "latestVersionCode": 513635,
+  "latestVersion": "3.3.20",
+  "latestVersionCode": 513636,
   "disableRequest": {
-    "below": 513635
+    "below": 513636
   },
   "url": "https://play.google.com/store/apps/details?id=com.reacstor.medium",
   "releaseNotes": [
     "Added Premium request icons",
-    "Disable icon request limit"
+    "Disable icon request limit",
+    "Fix crash report"
   ]
 }
