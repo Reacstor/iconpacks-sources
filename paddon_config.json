@@ -1,13 +1,12 @@
-{
-  "latestVersion": "2.0.6",
-  "latestVersionCode": 545757,
+I{
+  "latestVersion": "2.1.0",
+  "latestVersionCode": 545758,
   "disableRequest": {
-    "below": 545757
+    "below": 545758
   },
   "url": "https://play.google.com/store/apps/details?id=com.reacstor.paddon",
   "releaseNotes": [
-    "Added Premium request icons",
-    "Disable icon request limit",
-    "Fix crash report"
+    "Added One UI 7 icons",
+    "Update some Activities"
   ]
 }
