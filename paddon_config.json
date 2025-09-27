@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.1.7",
-  "latestVersionCode": 545765,
+  "latestVersion": "2.1.8",
+  "latestVersionCode": 545766,
   "disableRequest": {
-    "below": 545765
+    "below": 545766
   },
   "url": "https://play.google.com/store/apps/details?id=com.reacstor.paddon",
   "releaseNotes": [
