@@ -1,13 +1,12 @@
 {
-  "latestVersion": "2.9.5",
-  "latestVersionCode": 481545,
+  "latestVersion": "2.9.6",
+  "latestVersionCode": 481546,
   "disableRequest": {
-    "below": 481545
+    "below": 481546
   },
   "url": "https://play.google.com/store/apps/details?id=com.reacstor.agate",
   "releaseNotes": [
     "Added weekly request icons",
-    "Added One UI 7 icons",
     "Update some Activities"
   ]
 }
