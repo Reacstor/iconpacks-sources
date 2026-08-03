@@ -1,12 +1,11 @@
 {
   "latestVersion": "1.0.18-BETA",
-  "latestVersionCode": 321028,
+  "latestVersionCode": 321029,
   "disableRequest": {
-    "below": 321028
+    "below": 321029
   },
   "url": "https://play.google.com/store/apps/details?id=com.reacstor.mediumpro",
   "releaseNotes": [
-    "Added weekly request icons",
-    "Update some Activities"
+    "Update App Dashboard"
   ]
 }
