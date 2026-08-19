@@ -1,8 +1,8 @@
 {
   "latestVersion": "3.3.43",
-  "latestVersionCode": 513663,
+  "latestVersionCode": 513665,
   "disableRequest": {
-    "below": 513663
+    "below": 513665
   },
   "url": "https://play.google.com/store/apps/details?id=com.reacstor.medium",
   "releaseNotes": [
