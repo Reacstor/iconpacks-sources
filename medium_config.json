@@ -1,12 +1,14 @@
 {
-  "latestVersion": "3.3.43",
-  "latestVersionCode": 513666,
+  "latestVersion": "3.3.44",
+  "latestVersionCode": 513667,
   "disableRequest": {
-    "below": 513666
+    "below": 513667
   },
   "url": "https://play.google.com/store/apps/details?id=com.reacstor.medium",
   "releaseNotes": [
     "Added Premium request icons",
-    "New Google Workspace Icons 2026"
+		"Update some Activities",
+		"Enable Restore Purchases",
+		"Enable Regular Icon Request"
   ]
 }
