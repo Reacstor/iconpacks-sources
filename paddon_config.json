@@ -1,12 +1,14 @@
 {
   "latestVersion": "2.2.0",
-  "latestVersionCode": 545774,
+  "latestVersionCode": 545775,
   "disableRequest": {
-    "below": 545774
+    "below": 545775
   },
   "url": "https://play.google.com/store/apps/details?id=com.reacstor.paddon",
   "releaseNotes": [
-    "Update App Dashboard",
-    "New Google Workspace Icons 2026"
+		"Added Premium request icons",
+		"Update some Activities",
+		"Enable Restore Purchases",
+		"Enable Regular Icon Request"
   ]
 }
